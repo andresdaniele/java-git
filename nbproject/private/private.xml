@@ -2,9 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
         <group>
             <file>file:/C:/Users/Gonza/Desktop/ejercicio4/java-git/src/entidades/Gato.java</file>
             <file>file:/C:/Users/Gonza/Desktop/ejercicio4/java-git/src/entidades/Pato.java</file>
+=======
+        <group name="Guia6">
+            <file>file:/C:/Users/andre/Desktop/JavaApplication42/src/entidades/Ballena.java</file>
+>>>>>>> 762075f8bd21608bd4b88033aa753e679d5b200f
         </group>
     </open-files>
 </project-private>
