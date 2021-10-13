@@ -1,7 +1,7 @@
 package entidades;
 
-public class Pato {
-    
+public class Ballena {
+
     private String nombre;
     private Integer edad;
     private String raza;
