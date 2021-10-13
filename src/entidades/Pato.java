@@ -7,4 +7,5 @@ public class Pato {
     private String raza;
     private Integer peso;
     
+    
 }
